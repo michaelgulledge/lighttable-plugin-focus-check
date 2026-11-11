@@ -1,0 +1,19 @@
+{
+  "plugins": [
+    {
+      "id": "com.idlewild.lighttable.focus-check",
+      "name": "Focus Check",
+      "executable": "FocusCheckPlugin",
+      "version": "1.5.0",
+      "build": "8",
+      "capabilities": [
+        "editing"
+      ],
+      "network": false,
+      "manifest": {
+        "metadataAccess": "write"
+      },
+      "description": "Check focus in selected photos or the current folder and mark likely misses for later deletion."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+.build/
+.swiftpm/
+*.profraw
+.DS_Store
